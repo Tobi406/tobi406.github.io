@@ -1,2 +1,1 @@
-# tobi406.github.io
-Repo for https://tobi406.github.io, which is mostly used to documentate my private projects or test out things
+Welcome to my GitHub Pages page, here I'm going to documentate my projects and give important info about thme.
