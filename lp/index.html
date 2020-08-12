@@ -17,7 +17,7 @@
       const params = getParams(window.location.href);
       var link = document.createElement('meta');
       link.setAttribute('http-equiv', 'refresh');
-      link.content = `0;url=https://javadoc.io/doc/net.luckperms/api/latest/net/luckperms/api/${params.c}.html#${params.h.replace('$%0', 'java.lang.').replace('$%1', 'net.luckperms.api.')}`;
+      link.content = `0;url=https://javadoc.io/doc/net.luckperms/api/latest/net/luckperms/api/${params.c}.html#${params.h.replace('$0', 'java.lang.').replace('$1', 'net.luckperms.api.')}`;
       document.getElementsByTagName('head')[0].appendChild(link);
     </script>
   </head>
